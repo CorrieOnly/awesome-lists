@@ -37,3 +37,26 @@
 |https://apilist.fun/ | API index |
 |https://www.apis.io/ | API index |
 |https://github.com/public-apis/public-apis | API index |
+
+## Free Stuff
+|Link| Description |
+| ------ | ------ |
+|https://giveawayradar.weebly.com/ | Software |
+|https://giveaway.tickcoupon.com/windows-giveaway/ | Software |
+|https://www.techno360.in/category/free-stuff/ | Software |
+|http://yonokart.com/ | Software |
+|https://www.appdoze.com/ | Software |
+|https://winningpc.com/ | Software |
+|https://malwaretips.com/forums/giveaways-promotions-and-contests.75/ | Software |
+|https://net-load.com/ | Software |
+|https://groups.google.com/g/sos-windows2 | Software |
+|https://store.steampowered.com/search/?maxprice=free&category1=997 | Steam Mods |
+|https://gamesfree.today/ | Games |
+|https://freegames.codes/ | Games |
+|https://freebies.indiegala.com/ | Games |
+|https://free.ubisoft.com/ | Games |
+|https://isthereanydeal.com/#/filter:&price/0/0 | Games |
+
+
+
+
